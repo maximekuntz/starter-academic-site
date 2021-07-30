@@ -1,17 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Maxime Kuntz
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
-
+role: Elève ingénieur 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Ecole nationale de la statistique et de l'analyse de l'information (ENSAI)
+  url: https://www.ensai.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,15 +24,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Diplôme d'ingénieur en statistique, informatique, économétrie
+    institution: Ecole nationale de la statistique et de l'analyse de l'information (ENSAI)
+    year: 2019-2022
+  - course: Licence de mathématiques
+    institution: Université de Rennes 1
+    year: 2019-2020
+  - course: Classes préparatoires aux grandes écoles Mathématiques-Physique (MPSI-MP*)
+    institution: Lycée Condorcet, Paris
+    year: 2017-2019
+  - course: Baccalauréat scientifique
+    institution: Lycée Michelet, Vanves
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,18 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: gitlab
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://gitlab.com/maxime.kuntz
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/maxime-kuntz
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
